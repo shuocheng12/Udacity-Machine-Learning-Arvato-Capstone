@@ -27,9 +27,9 @@ This project uses Python 3 and is designed to be completed through the Jupyter N
 
 **`Arvato_capstone.ipynb`:** Jupyter Notebook that runs in the following three segments:
 
-0. 0. Data Cleaning and Transformation
-1. Unsupervised Learning
-   2. Supervised Learning
+0. Data Cleaning and Transformation//
+1. Unsupervised Learning//
+2. Supervised Learning//
 
 **`Kaggle_submission.ipynb:`** Jupyter Notebook for final submission amendments and testing more models
 
