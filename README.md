@@ -6,6 +6,14 @@
 
 This project is to aid a mail-order sales company to acquire new German clients for their mail-out campaign based on analyzing and comparing the attributes of general population and potential target Germen population. The end goal is to identify and predict a group of target audience of the campaign that could bring the highest return for the company. This study would point out a general direction for the company to move forward with higher return on investment.
 
+# Methodologies #
+- EDA
+- PCA
+- K-means / Clustering
+- Logistic Regression
+- Ada Boost Classifier
+- Gradient Boosting Classifier
+
 # Software and Libraries #
 
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
@@ -27,9 +35,9 @@ This project uses Python 3 and is designed to be completed through the Jupyter N
 
 **`Arvato_capstone.ipynb`:** Jupyter Notebook that runs in the following three segments:
 
-0. Data Cleaning and Transformation//
-1. Unsupervised Learning//
-2. Supervised Learning//
+0. Data Cleaning and Transformation
+1. Unsupervised Learning
+2. Supervised Learning
 
 **`Kaggle_submission.ipynb:`** Jupyter Notebook for final submission amendments and testing more models
 
